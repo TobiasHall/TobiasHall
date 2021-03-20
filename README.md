@@ -26,7 +26,7 @@
 
 ![TobiasHall github stats](https://github-readme-stats.vercel.app/api?username=TobiasHall&theme=vue&show_icons=true&count_private=true&hide_border=true)
 
-<br />
+
 
 <!--
 **TobiasHall/TobiasHall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
