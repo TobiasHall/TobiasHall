@@ -12,14 +12,14 @@
 <br />
 
 ### Languages and Tools I use:
-<img align="left" alt="Visual Studio" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/visual-studio.png?raw=true" />
-<img align="left" alt=".Net Core" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/dotnet.png?raw=true" />
-<img align="left" alt="C#" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/c-sharp.png?raw=true" />
-<img align="left" alt="ASP.Net" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/asp-net.png?raw=true" />
-<img align="left" alt="HTML5" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/html5.png?raw=true" />
-<img align="left" alt="CSS3" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/css3.png?raw=true" />
-<img align="left" alt="JavaScript" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/javascript.png?raw=true" />
-<img align="left" alt="PostgreSQL" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/postgre-sql.png?raw=true" />
+<img align="left" alt="Visual Studio" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/visual-studio2.png?raw=true" />
+<img align="left" alt=".Net Core" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/dotnet2.png?raw=true" />
+<img align="left" alt="C#" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/c-sharp2.png?raw=true" />
+<img align="left" alt="ASP.Net" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/asp-net2.png?raw=true" />
+<img align="left" alt="HTML5" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/html5-2.png?raw=true" />
+<img align="left" alt="CSS3" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/css3-2.png?raw=true" />
+<img align="left" alt="JavaScript" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/javascript2.png?raw=true" />
+<img align="left" alt="PostgreSQL" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/postgre-sql2.png?raw=true" />
 
 <br />
 <br />
