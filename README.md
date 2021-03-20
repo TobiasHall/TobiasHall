@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Tobbe and I'm currently looking for job opportunities
+<br />
+
+#### I'm a outdoor life geek with development interest! And of course, I can solve the Rubik's Cube!
+
+- 🔭 I’m currently working on how to set up an annotation tool and how to use it to create machine learning models
+- 🌱 I’m currently in start of learning a bit of Python
+- 🥅 2021 Goals: Get a job as a junior developer to start a new career
+- ❤️ Outdoor life, Biathlon, Bake bread, Östersund and Code
+- ⚡ Fun fact: I was part of a world record attempt in human spooning
+
+<br />
+
+### Languages and Tools I use:
+<img align="left" alt="Visual Studio" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio.png" />
+
+<br />
+
+![TobiasHall github stats](https://github-readme-stats.vercel.app/api?username=TobiasHall&theme=vue&show_icons=true&count_private=true&hide_border=true)
+
+<br />
 
 <!--
 **TobiasHall/TobiasHall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
