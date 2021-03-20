@@ -12,7 +12,7 @@
 <br />
 
 ### Languages and Tools I use:
-<img align="left" alt="Visual Studio" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/visual-studio2.png?raw=true" />
+<img align="left" alt="Visual Studio" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/visual-studio.png?raw=true" />
 <img align="left" alt=".Net Core" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/dotnet2.png?raw=true" />
 <img align="left" alt="C#" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/c-sharp2.png?raw=true" />
 <img align="left" alt="ASP.Net" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/asp-net2.png?raw=true" />
