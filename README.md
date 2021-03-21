@@ -12,22 +12,20 @@
 <br />
 
 ### Languages and Tools I use:
-<img align="left" alt="Visual Studio" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/visual-studio2.png?raw=true" />
-<img align="left" alt=".Net Core" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/dotnet2.png?raw=true" />
-<img align="left" alt="C#" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/c-sharp2.png?raw=true" />
-<img align="left" alt="ASP.Net" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/asp-net2.png?raw=true" />
-<img align="left" alt="HTML5" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/html5-2.png?raw=true" />
-<img align="left" alt="CSS3" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/css3-2.png?raw=true" />
-<img align="left" alt="JavaScript" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/javascript2.png?raw=true" />
-<img align="left" alt="PostgreSQL" width="40px" src="https://github.com/TobiasHall/TobiasHall/blob/main/postgre-sql2.png?raw=true" />
+![Visual Studio](img/visual-studio.png)
+![.Net](img/dot-net.png)
+![C#](img/c-sharp.png)
+![ASP.NET](img/asp-net.png)
+![HTML5](img/html5.png)
+![CSS3](img/css3.png)
+![JavaScript](img/javascript.png)
+![PostgreSQL](img/postgresql.png)
 
 <br />
 <br />
 <br />
 
 ![TobiasHall github stats](https://github-readme-stats.vercel.app/api?username=TobiasHall&theme=vue&show_icons=true&count_private=true&hide_border=true)
-
-
 
 <!--
 **TobiasHall/TobiasHall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
