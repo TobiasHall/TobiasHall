@@ -3,11 +3,12 @@
 
 #### I'm a outdoor life geek with development interest! And of course, I can solve the Rubik's Cube!
 
-- 🔭 I’m currently working on how to set up an annotation tool and how to use it to create machine learning models
-- 🌱 I’m currently in start of learning a bit of Python
-- 🥅 2021 Goals: Get a job as a junior developer to start a new career
-- ❤️ Outdoor life, Biathlon, Bake bread, Östersund and Code
-- ⚡ Fun fact: I was part of a world record attempt in human spooning
+- ✏️  I’m currently studying my last semester at the program Informatics with a focus on systems development at Mid Sweden University
+- 🔭  I’m currently working on how to set up an annotation tool and how to use it to create machine learning models
+- 🌱  I’m currently in start of learning a bit of Python
+- 🥅  2021 Goals: Get a job as a junior developer to start a new career
+- ❤️  Outdoor life, Biathlon, Bake bread, Östersund and Code
+- ⚡  Fun fact: I was part of a world record attempt in human spooning
 
 <br />
 
