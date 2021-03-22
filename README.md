@@ -1,7 +1,7 @@
 ### Hi there, I'm Tobbe and I'm currently looking for job opportunities
 [![LinkedIn: tobias-hall-a005b31b9](https://img.shields.io/badge/-Tobias%20Hall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobias-hall-a005b31b9/)](https://www.linkedin.com/in/tobias-hall-a005b31b9/")
 
-#### I'm a outdoor life geek with development interest! And of course, I can solve the Rubik's Cube!
+#### I'm a outdoor life geek with interest in technology and development! And of course, I can solve the Rubik's Cube!
 
 - ✏️ &#160; I’m studying my last semester at Mid Sweden University, program Informatics with a focus on systems development
 - 🔭 &#160; I’m currently working on how to set up an annotation tool and how to use it to create machine learning models
@@ -21,6 +21,7 @@
 ![CSS3](img/css3.png)
 ![JavaScript](img/javascript.png)
 ![PostgreSQL](img/postgresql.png)
+![Git](img/git.png)
 
 <br />
 <br />
