@@ -21,6 +21,7 @@
 ![CSS3](img/css3.png)
 ![JavaScript](img/javascript.png)
 ![PostgreSQL](img/postgresql.png)
+![Entity Framework](img/entity-framework.png)
 ![Git](img/git.png)
 
 <br />
