@@ -1,4 +1,4 @@
-### Hi there, I'm Tobbe and I'm currently looking for job opportunities
+### Hi there, I'm Tobias Hall and I'm currently working as a junior developer.
 [![LinkedIn: tobias-hall-a005b31b9](https://img.shields.io/badge/-Tobias%20Hall-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tobias-hall-a005b31b9/)](https://www.linkedin.com/in/tobias-hall-a005b31b9/")
 
 #### I'm a outdoor life geek with interest in technology and development! And of course, I can solve the Rubik's Cube!
