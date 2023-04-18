@@ -6,10 +6,9 @@
 #### I'm a outdoor life geek with interest in technology and development! And of course, I can solve the Rubik's Cube!
 
 - ✏️ &#160; I have completed my university studies at Mid Sweden University, program Informatics with a focus on systems development
-- 🔭 &#160; I’m currently working on developing a small game in WPF with MVVM structure
-- 🌱 &#160; I’m currently in start of learning a bit of Java
-- 🥅 &#160; 2021 Goals: Get a job as a junior developer to start a new career
-- ❤️ &#160; Outdoor life, Biathlon, Bake bread, Östersund and Code
+- 🔭 &#160; I’m currently working on developing a small game in Angular
+- 🌱 &#160; I’m currently learning more about Angular
+- ❤️ &#160; Outdoor life, Biathlon, Bread baking, Östersund and Code
 - ⚡ &#160; Fun fact: I was part of a world record attempt in human spooning
 
 ##
@@ -46,4 +45,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🥅 &#160; Goals: 
 -->
